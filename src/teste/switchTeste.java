@@ -8,7 +8,7 @@ public class switchTeste {
         int numero = scan.nextInt();
         switch (numero){
             case 1:
-                System.out.printf("Numero inserido foi 1!!");
+                System.out.printf("Numero inserido foi 2!!");
                 break;
             case 10:
                 System.out.printf("Numero inserido foi 10!!");
